@@ -1,0 +1,4 @@
+/Users/volodymyrkustikov/CLionProjects/notionSecondEdition/build/CMakeFiles/caesar.dir
+/Users/volodymyrkustikov/CLionProjects/notionSecondEdition/build/CMakeFiles/text_editor.dir
+/Users/volodymyrkustikov/CLionProjects/notionSecondEdition/build/CMakeFiles/edit_cache.dir
+/Users/volodymyrkustikov/CLionProjects/notionSecondEdition/build/CMakeFiles/rebuild_cache.dir
